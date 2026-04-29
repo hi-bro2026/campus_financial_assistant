@@ -12,7 +12,7 @@ import json
 # ═══════════════════════════════════════════════════════════════════════
 # API 配置
 # ═══════════════════════════════════════════════════════════════════════
-API_KEY = "sk-e8f4371072b84703b005e2445b1fc24e"
+API_KEY = st.secrets["DEEPSEEK_API_KEY"]
 client = OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com")
 
 st.set_page_config(

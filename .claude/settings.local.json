@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -o '\".\\\\{0,30\\\\}|.*|.*|.*|.\\\\{0,30\\\\}\"' \"C:/Users/bro/.vscode/extensions/anthropic.claude-code-2.1.142-win32-x64/extension.js\")",
+      "Bash(pip install *)",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('app.py', encoding='utf-8'\\).read\\(\\)\\); print\\('Syntax OK'\\)\")",
+      "Bash(streamlit run *)",
+      "WebFetch(domain:localhost)",
+      "Bash(curl -s http://localhost:8501/healthz)",
+      "Bash(cp \"D:/bro/Pictures/微信图片_20260515234733_835_110.jpg\" \"c:/Users/bro/OneDrive - Microsoft 365/桌面/campus_finance_assistant/assets/logo.jpg\")",
+      "Bash(pkill -f \"streamlit run\")",
+      "Bash(python -c \"import py_compile; py_compile.compile\\('app.py', doraise=True\\); print\\('Syntax OK'\\)\")",
+      "Bash(git ls-remote *)",
+      "Bash(git fetch *)",
+      "Bash(git merge *)"
+    ],
+    "additionalDirectories": [
+      "D:\\bro\\Pictures"
+    ]
+  }
+}

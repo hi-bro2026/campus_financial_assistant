@@ -1,0 +1,7 @@
+# 密钥文件 - 不要提交！
+.streamlit/secrets.toml
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo

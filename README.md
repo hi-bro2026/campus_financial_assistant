@@ -44,7 +44,7 @@ streamlit run app.py
 
 访问 Streamlit Cloud 公开链接（无需安装）：
 
-➡️ **[campus-financial-assistant.streamlit.app](https://campus-financial-assistant.streamlit.app)**
+➡️ **[campus-financial-assistant.streamlit.app](https://campusfinancialassistant.streamlit.app)**
 
 ## 📁 项目结构
 

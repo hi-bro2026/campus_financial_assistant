@@ -26,7 +26,7 @@ AI 驱动的校园财务报销辅助系统，帮助学生、班委、社团负�
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/hi-bro2026/campus_financial_assistant.git
+git clone https://github.com/gzmakes/campus_financial_assistant.git
 cd campus_financial_assistant
 
 # 2. 安装依赖
